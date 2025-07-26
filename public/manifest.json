@@ -1,0 +1,10 @@
+{
+  "name": "ORBITAL",
+  "short_name": "ORBITAL",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#2A1E1E",
+  "theme_color": "#D4A017",
+  "description": "Rede social artística afrofuturista",
+  "icons": []
+}
